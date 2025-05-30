@@ -9,20 +9,27 @@
 - [ ] define challenge tracks + use cases
 - [ ] answer: what makes this app unique?
 - [ ] answer: which challenges are you targeting?
+- [ ] describe 3 real-world usage scenarios
+- [ ] create final app pitch (5 sentence + 1 minute spoken version)
 
 ### day-two-310525:
 - [ ] feature priority list (mandatory, should, bonus)
-- [ ] application workflow + screens list
+- [ ] application workflow
+- [ ] screens list
+- [ ] states list
+- [ ] component-level architecture (what blocks will each page contain)
 - [ ] user flow: onboarding (goal, insert linkedin link)
 - [ ] user flow: profile analysis (scorecard, AI suggestions)
 - [ ] user flow: upgrade to pro (paywall)
-- [ ] use figma for wireframing
+- [ ] use figma for wireframing ^
+- [ ] annotate wireframes
 
 ### day-three-010625:
 - [ ] go to bolt.new
 - [ ] use ai to make ui designs for each page (with states via workflows)
 - [ ] build app's pages + architecture
 - [ ] build temporary static pages (landing screen, login page, dashboard, etc)
+
 
 ### day-four-020625:
 - [ ] translate all screen UI designs into bolt project (mock)
