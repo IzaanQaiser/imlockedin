@@ -48,5 +48,8 @@
 - [ ] implement digital scorecard with green/yellow/red indicators
 
 ### day-eight-060625:
+- [ ] upgrade to pro button
 - [ ] set up revenueCat SDK integration
 - [ ] upgrade modal paywall
+- [ ] stripe integration
+
