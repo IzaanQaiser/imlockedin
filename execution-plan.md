@@ -21,15 +21,26 @@
 ### day-three-010625:
 - [ ] go to bolt.new
 - [ ] use ai to make ui designs for each page (with states via workflows)
-- [ ] build app's basic layout (initial prompt)
-- [ ] build static pages (landing screen, login page, dashboard, etc)
+- [ ] build app's pages + architecture
+- [ ] build temporary static pages (landing screen, login page, dashboard, etc)
 
 ### day-four-020625:
-- [ ] translate UI designs into bolt project (mock)
+- [ ] translate all screen UI designs into bolt project (mock)
+- [ ] save `careerGoal` to global state
 
 ### day-five-030625:
 - [ ] decide how users upload their LinkedIn information (PDF, link, copy & paste)
 - [ ] figure out information extraction system
 - [ ] integrate information extraction system
 - [ ] integreate information (active memory) storage
+
+### day-six-040625:
+- [ ] decide where to get AI services from
+- [ ] integrate to implement headline rewrite
+- [ ] integrate to implement About rewrite
+- [ ] suggestions list
+- [ ] integrate to provide suggestions
+- [ ] write initial sets of AI prompts
+
+### day-seven-050625:
 
