@@ -20,9 +20,14 @@
 
 ### day-three-010625:
 - [ ] go to bolt.new
-- [ ] use ai to make ui designs for each page
+- [ ] use ai to make ui designs for each page (with states via workflows)
 - [ ] build app's basic layout (initial prompt)
 - [ ] build static pages (landing screen, login page, dashboard, etc)
 
+### day-four-020625:
+- [ ] translate UI designs into bolt project (mock)
 
+### day-five-030625:
+- [ ] decide how users upload their LinkedIn information (PDF, link, copy & paste)
+- [ ] 
 
