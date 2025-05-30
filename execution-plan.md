@@ -43,4 +43,10 @@
 - [ ] write initial sets of AI prompts
 
 ### day-seven-050625:
+- [ ] feedback engine work
+- [ ] create rules to score each section on (keywords, match, length, tone, structure)
+- [ ] implement digital scorecard with green/yellow/red indicators
 
+### day-eight-060625:
+- [ ] set up revenueCat SDK integration
+- [ ] upgrade modal paywall
