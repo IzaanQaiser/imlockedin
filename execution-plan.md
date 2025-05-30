@@ -1,5 +1,5 @@
-## imlockedin.ai execution-plan (may 30 - june 30)
-
+## imlockedin.ai execution-plan (may 30 - june 30) <br>
+🔗 [imlockedin-bolt-hackathon](https://chatgpt.com/c/6839eed6-2798-8011-af01-9cecb4c35f57) <br>
 ### day-one-300525:
 - [ ] finalise target users
 - [ ] define single problem to solve
@@ -17,4 +17,12 @@
 - [ ] user flow: profile analysis (scorecard, AI suggestions)
 - [ ] user flow: upgrade to pro (paywall)
 - [ ] use figma for wireframing
+
+### day-three-010625:
+- [ ] go to bolt.new
+- [ ] use ai to make ui designs for each page
+- [ ] build app's basic layout (initial prompt)
+- [ ] build static pages (landing screen, login page, dashboard, etc)
+
+
 
