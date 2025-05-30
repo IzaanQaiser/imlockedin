@@ -53,3 +53,8 @@
 - [ ] upgrade modal paywall
 - [ ] stripe integration
 
+### day-nine:
+- [ ] add 'talk to coach' button
+- [ ] integrate elevenlabs for conversational ai
+- [ ] play daily tip button
+
