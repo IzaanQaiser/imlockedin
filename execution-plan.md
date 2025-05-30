@@ -29,5 +29,7 @@
 
 ### day-five-030625:
 - [ ] decide how users upload their LinkedIn information (PDF, link, copy & paste)
-- [ ] 
+- [ ] figure out information extraction system
+- [ ] integrate information extraction system
+- [ ] integreate information (active memory) storage
 
