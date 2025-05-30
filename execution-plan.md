@@ -58,3 +58,7 @@
 - [ ] integrate elevenlabs for conversational ai
 - [ ] play daily tip button
 
+### day-ten:
+- [ ] run the app end to end with test data
+- [ ] test all workflows
+- [ ] take notes on needed improvements (performance, UI, bugs)
