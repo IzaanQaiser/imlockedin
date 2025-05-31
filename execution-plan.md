@@ -25,15 +25,20 @@
 - [ ] annotate wireframes
 
 ### day-three-010625:
+- [ ] pick colour theme 
+- [ ] pick typography system
 - [ ] go to bolt.new
 - [ ] use ai to make ui designs for each page (with states via workflows)
-- [ ] build app's pages + architecture
+- [ ] define state logic flow for each screen using Bolt AI's flowbuilder
 - [ ] build temporary static pages (landing screen, login page, dashboard, etc)
 
 
 ### day-four-020625:
 - [ ] translate all screen UI designs into bolt project (mock)
 - [ ] save `careerGoal` to global state
+- [ ] save `linkedInRawData` to global state
+- [ ] build fake `scoring engine`
+- [ ] build `<- before changes` and `after changes ->` toggle
 
 ### day-five-030625:
 - [ ] decide how users upload their LinkedIn information (PDF, link, copy & paste)
